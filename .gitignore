@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / packaging
+build/
+dist/
+*.spec
+
+# Environments
+.venv/
+venv/
+env/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS junk
+Thumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+
+# Logs
+*.log
